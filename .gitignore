@@ -1,6 +1,10 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 .nyc_output
 
+# Cypress screenshots and videos for test runs
+/cypress/videos
+/cypress/screenshots
+
 # compiled output
 /dist
 /tmp
